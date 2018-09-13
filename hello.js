@@ -1,3 +1,3 @@
 window.onload = function() {
-    alert("Hey I'm Igor");
+    alert("Hey I'm Thomaz");
 };
